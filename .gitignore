@@ -1,0 +1,24 @@
+# Security & Credentials (CRITICAL)
+.env
+*.pem
+*.key
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Raw Data Files
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# Operating System Junk
+.DS_Store
+Thumbs.db
