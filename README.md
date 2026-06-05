@@ -12,7 +12,7 @@ This project demonstrates a complete Data Engineering and Business Intelligence 
 ## 📊 Dashboard Preview
 *(The image below displays the interactive dashboard connected live to the MySQL database)*
 
-![Credit Risk Dashboard](dashboard_final.png)
+![Credit Risk Dashboard](dashboard_final.png.png)
 
 ## ⚙️ Key Technical Achievements
 1. **Automated Data Ingestion:** Wrote a Python script (`pipeline.py`) to clean, format, and load 30,000 raw financial records directly into a MySQL database.
